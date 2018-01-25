@@ -1,8 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<connection>
-  <port>1522</port>
-  <userid>garett</userid>
-  <password>123456</password>
-  <servicename>ora10g.localdomain</servicename>
-  <host>10.61.208.59</host>
-</connection>
